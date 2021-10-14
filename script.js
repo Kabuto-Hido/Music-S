@@ -46,10 +46,10 @@ const app={
             image: "./musicStore/Music img/NgoLanHuong.jpg"
           },
           {
-            name: "Build A Bitch",
-            singer: "Bella Poarch",
-            path: "./musicStore/Music mp3/BuildABitch-BellaPoarch-7030913.mp3",
-            image: "https://cdn.promodj.com/afs/8d11798266856ded1af6c00d402f6e2912:resize:2000x2000:same:904835"
+            name: "Sài Gòn Hôm Nay Mưa",
+            singer: "JSOL, Hoàng Duyên, An Coong",
+            path: "http://api.mp3.zing.vn/api/streaming/audio/ZUIEFWUZ/500",
+            image: "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/f/1/7/7/f17795d5c48b67ee8e3b4d73c99498e8.jpg"
           },
           {
             name: "Inferno",
