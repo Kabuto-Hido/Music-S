@@ -66,61 +66,61 @@ const app={
           {
             name: "Unstoppable",
             singer: "Sia",
-            path: "http://api.mp3.zing.vn/api/streaming/audio/ZW7O99BA/500",
+            path: "https://a128-zmp3.zmdcdn.me/cade0d152060e3f56d8411753267da61?authen=exp=1698696523~acl=/cade0d152060e3f56d8411753267da61/*~hmac=9a6f13bb8c8bf08dbbc442d9f253369c",
             image:"https://i1.sndcdn.com/artworks-yqiiKWS6GVNHnqIi-Zup5hg-t500x500.jpg"
           },
           {
             name: "Dusk Till Dawn",
             singer: "Zayn, Sia",
-            path:"http://api.mp3.zing.vn/api/streaming/audio/ZW8I78UO/500",
+            path:"https://a128-zmp3.zmdcdn.me/7eda25db9ff0bf1df2783fe7ef19648e?authen=exp=1698696977~acl=/7eda25db9ff0bf1df2783fe7ef19648e/*~hmac=844e03b0931dc72d04331ebcb0e0b596",
             image:"https://i.pinimg.com/originals/15/ca/79/15ca797e31e129f1c3f6faab22b00e05.jpg"
           },
           {
             name: "Symphony",
             singer: "Clean Bandit, Zara Larsson",
-            path: "http://api.mp3.zing.vn/api/streaming/audio/ZW7FIZWE/500",
+            path: "https://a128-zmp3.zmdcdn.me/e05a3e560eb3ff1fb4bd649a7a730b9a?authen=exp=1698697015~acl=/e05a3e560eb3ff1fb4bd649a7a730b9a/*~hmac=b9d65561455ce922ae8518b9ef70fd2c",
             image: "https://i1.sndcdn.com/artworks-hQgO5NdqHxcQeMVP-bIJ3oQ-t500x500.jpg"
           },
           {
-            name: "Señorita ",
+            name: "Señorita",
             singer: "Shawn Mendes, Camila Cabello",
-            path: "http://api.mp3.zing.vn/api/streaming/audio/ZWAFDUW0/500",
+            path: "https://a128-zmp3.zmdcdn.me/effdac63f6b42f88fed44abdb6a0a401?authen=exp=1698697099~acl=/effdac63f6b42f88fed44abdb6a0a401/*~hmac=4957570f229cef7b8b172503f92b488f",
             image: "https://wetaya.com/wp-content/uploads/2020/03/Shawn-Mendes-Camila-Cabello-Senorita-Q-o-d-%C3%AB-s-Remix.jpg"
           },
           {
             name: "Lost",
             singer: "Maroon 5",
-            path: "http://api.mp3.zing.vn/api/streaming/audio/ZU0CA0ZO/500",
-            image: "https://musicjinx.com/wp-content/uploads/2021/06/20210616_205334_0000.png"
+            path: "https://a128-zmp3.zmdcdn.me/4714c3ec3de27164812d1b0b38352ddb?authen=exp=1698697125~acl=/4714c3ec3de27164812d1b0b38352ddb/*~hmac=88588a6647d96f91512cd96e2491af64",
+            image: "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/d/e/b/1/deb1acaa1b0204a84f07c794b8d84c39.jpg"
           },
           {
             name: "Wolves",
             singer: "Selena Gomez, Marshmello",
-            path: "http://api.mp3.zing.vn/api/streaming/audio/ZW8WW8FZ/500",
+            path: "https://a128-zmp3.zmdcdn.me/6ff75746dec9acc10b1fdf5e4b9d6983?authen=exp=1698697695~acl=/6ff75746dec9acc10b1fdf5e4b9d6983/*~hmac=b821f2d24625b2827cc370a95c059367",
             image: "https://avatar-ex-swe.nixcdn.com/song/2017/10/25/f/3/a/5/1508949700484_640.jpg"
           },
           {
             name: "Rồi tới luôn",
             singer: "Nal",
-            path: "https://api.mp3.zing.vn/api/streaming/audio/ZUOZWCUC/500",
+            path: "https://a128-zmp3.zmdcdn.me/1a903eff8e21261ea5643c1f5f47b915?authen=exp=1698697549~acl=/1a903eff8e21261ea5643c1f5f47b915/*~hmac=72ecb62266909aec7e555f448109356a",
             image: "https://i.scdn.co/image/ab67616d0000b2739317ef1fb4bfaf1538ef816e"
           },
           {
             name: "Yêu là cưới",
             singer: "Phát Hồ, X2X",
-            path: "https://api.mp3.zing.vn/api/streaming/audio/ZU6IEI66/500",
+            path: "https://a128-zmp3.zmdcdn.me/5cd94b7efb00e31dd4262c9801a0d4eb?authen=exp=1698697579~acl=/5cd94b7efb00e31dd4262c9801a0d4eb/*~hmac=8fbaf192dcd607559374d25c9f5a7585",
             image: "https://lyricvn.com/wp-content/uploads/2021/09/49da6a1d6cf13a42e77bc3a945d9dd6b.jpg"
           },
           {
-            name: "Em hát ai nghhe",
+            name: "Em hát ai nghe",
             singer: "Organe",
-            path: "https://api.mp3.zing.vn/api/streaming/audio/ZUU8FEI8/500",
-            image: "https://leecoffee.net/wp-content/uploads/2021/08/Em-Hat-Ai-Nghe-Orange.png"
+            path: "https://a128-zmp3.zmdcdn.me/0de550afb5a32c26466efb2fd9a901f3?authen=exp=1698697558~acl=/0de550afb5a32c26466efb2fd9a901f3/*~hmac=bf190927f13c2415ac0c3e4e845694e0",
+            image: "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg"
           },
           {
             name: "Hạ còn vương nắng",
             singer: "Datkaa, Kido",
-            path: "https://api.mp3.zing.vn/api/streaming/audio/ZOAFBWB0/500",
+            path: "https://a128-zmp3.zmdcdn.me/238faf83b8e14227bbd71a2673c5d24f?authen=exp=1698697057~acl=/238faf83b8e14227bbd71a2673c5d24f/*~hmac=de4f2732be22d9a880b4e9eb428cf241",
             image: "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/d/8/0/1/d801670cd8ecdb89750bdbe8de198021.jpg"
           },
           {
@@ -132,19 +132,19 @@ const app={
           {
             name: "Kẹo bông gòn",
             singer: "H2K, TRUNKY",
-            path: "https://api.mp3.zing.vn/api/streaming/audio/ZWEW9WI8/500",
+            path: "https://a128-zmp3.zmdcdn.me/6bf183560f7fc30dddef48a5c9aac8ca?authen=exp=1698697505~acl=/6bf183560f7fc30dddef48a5c9aac8ca/*~hmac=28a0a80cb1da9e06a8e008a3f6f938b0",
             image: "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/d/e/9/1/de91f9c8b08e1fb4b35e2b64e1c2ed15.jpg"
           },
           {
             name: "Cafe không đường",
             singer: "G5R Squad",
-            path: "https://api.mp3.zing.vn/api/streaming/audio/ZO9ZI68B/500",
+            path: "https://a128-zmp3.zmdcdn.me/36c99ce81475ec6f7d34b1adb39a5a5f?authen=exp=1698697315~acl=/36c99ce81475ec6f7d34b1adb39a5a5f/*~hmac=c9bbc3786375cd71ad76a0dfc66d0409",
             image: "https://photo-zmp3.zadn.vn/cover/2/8/6/f/286f0b4fae2ab3b2a7942968e22bd58f.jpg"
           },
           {
             name: "OK",
             singer: "Binz",
-            path: "https://api.mp3.zing.vn/api/streaming/audio/ZWB0U608/500",
+            path: "https://a128-zmp3.zmdcdn.me/7246529f8c6c8ed2f9662b1092d616c6?authen=exp=1698697536~acl=/7246529f8c6c8ed2f9662b1092d616c6/*~hmac=87bc7f1878263da4bc859aef43442de9",
             image: "https://i1.sndcdn.com/artworks-fzQd1RhKx01AszrO-KAlQXg-t500x500.jpg"
           }
 
